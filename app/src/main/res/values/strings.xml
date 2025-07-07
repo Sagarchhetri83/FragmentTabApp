@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentTabApp</string>
+    <string name="hello_android">Hello Android</string>
+    <string name="text_view">TextView</string>
+    <string name="ready_to_discover_something_new_today">Ready to discover something new today?</string>
+    <string name="hello_sagar">Hello Sagar!</string>
+</resources>

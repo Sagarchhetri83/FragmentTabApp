@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.FragmentTabApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+        <!-- Example: -->
+        <item name="colorPrimary">@color/your_custom_color</item>
+
+
+    </style>
+</resources>
